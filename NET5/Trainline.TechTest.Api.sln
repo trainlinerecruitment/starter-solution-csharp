@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trainline.TechTest.Api", "Trainline.TechTest.Api.csproj", "{B1BF19C2-46C9-46DD-BCE0-D95536B7C5CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trainline.TechTest.Api", "Trainline.TechTest.Api/Trainline.TechTest.Api.csproj", "{B1BF19C2-46C9-46DD-BCE0-D95536B7C5CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
